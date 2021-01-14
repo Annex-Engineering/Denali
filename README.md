@@ -24,14 +24,6 @@ This printer features the following:
  - 24V Power Standard
  - AC Mains Bed with Thermal Cutoff Fusing
  - Powered by Klipper: https://github.com/KevinOConnor/klipper/
-
-This design is "backwards" compatible with the following VORON parts
- - Toolheads (Including the DD ones)
- - VORON Afterburner + X Carriage
- - 1.6/1.8 Z Drive and Deck Plate
- - RAMPs controller (assuming you build your own configuration)
- - Mobius Extruder
- - LRS-200-12 PSU, and thus 12v power, assuming you make your own brackets and deck plate
  
  ![Image of Denali with Panels](https://github.com/Annex-Engineering/Denali/blob/master/Images/Denali_-_ISO_Machine.JPG?raw=true)
  
