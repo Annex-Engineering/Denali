@@ -11,7 +11,7 @@ Frame Calculator: https://docs.google.com/spreadsheets/d/17bdA1itJfFXpg5xXoUhM7P
 This printer features the following:
  - Fully Enclosed Design
  - Supported Build Volumes of ~200x200x200 to ~350x350x300
- - Single Direct Drive Fed Extruder (V6/Volcano and Mosquito Hotends Supported)
+ - Single Direct Drive Fed Extruder (V6, Dragon and Mosquito Hotends Supported)
  - CoreXY Belt Path
  - Moving Bed with Tri-Stepper Leveling and Squaring
  - MGN9H Rail/Carriage Combo on all Axis
