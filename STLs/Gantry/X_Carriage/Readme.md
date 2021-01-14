@@ -1,0 +1,1 @@
+These parts were developed by edwardyeeks and papejelly. They are better versions of what was originally included with this repo
