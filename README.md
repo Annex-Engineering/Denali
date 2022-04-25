@@ -3,7 +3,9 @@ Project Denali is a CoreXY, Moving Bed, Medium Size, Direct Drive, FDM Printer
 
 The main goal was to reduce complexity, while providing a fast reliable and ultimately simpler printer.
 
-Our discord server can be found here: https://discord.gg/MzTR3zE
+Our discord server can be found here: 
+
+[![Join me on Discord](https://discord.com/api/guilds/641407187004030997/widget.png?style=banner2)](https://discord.gg/MzTR3zE)
 
 BOM/Sourcing Guide for a 250x250x200 Build can be found here: https://docs.google.com/spreadsheets/d/1O3eyVuQ6M4F03MJSDs4Z71_XyNjXL5HFTZr1jsaAtRc/edit?usp=sharing
 Frame Calculator: https://docs.google.com/spreadsheets/d/17bdA1itJfFXpg5xXoUhM7PC9FFtjTBpXj1FjgBG_8xA/edit?usp=sharing
